@@ -4,7 +4,7 @@ In my most recent Power BI project for Crunchy Corner, one of India's largest fa
 
 The data modeling phase was critical to this project, as I meticulously organized and separated columns into dimensions and fact tables to ensure the data was properly structured for analysis. This allowed for seamless relationship development and accurate insights.
 
-Using advanced DAX functions, I conducted financial analysis, Pareto analysis, and created dynamic visualizations to identify trends and support data-driven decision-making. This project highlights my skills in data modeling, financial analysis, and creating.
+Using advanced DAX functions, I conducted financial analysis, Pareto analysis, and created dynamic visualizations to identify trends and support data-driven decision-making. This project highlights my skills in data modeling, financial analysis, and creating powerful visual tools for business optimization.
 
 **Link to the web app**:
 https://app.powerbi.com/groups/me/reports/49736f0f-b08f-40a1-99f5-85ec71d63056?ctid=7158f100-9188-4d39-a152-f7780b9cc57e&pbi_source=linkShare&bookmarkGuid=8389897f-beb0-4257-a349-93bbfe291cc0
