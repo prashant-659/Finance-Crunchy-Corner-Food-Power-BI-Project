@@ -6,6 +6,9 @@ The data modeling phase was critical to this project, as I meticulously organize
 
 Using advanced DAX functions, I conducted financial analysis, Pareto analysis, and created dynamic visualizations to identify trends and support data-driven decision-making. This project highlights my skills in data modeling, financial analysis, and creating.
 
+**Link to the web app**:
+https://app.powerbi.com/groups/me/reports/49736f0f-b08f-40a1-99f5-85ec71d63056?ctid=7158f100-9188-4d39-a152-f7780b9cc57e&pbi_source=linkShare&bookmarkGuid=8389897f-beb0-4257-a349-93bbfe291cc0
+
 # Data Modeling
 ![Screenshot 2024-08-23 153807](https://github.com/user-attachments/assets/4d7d7269-1353-44d1-bf4e-31e7c8fddde9)
 
